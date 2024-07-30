@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexct549
 - 👀 I’m interested in Anime,Videogames and coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me alessandrogamberoni09@gmail.com
 
 <!---
